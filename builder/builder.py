@@ -1,6 +1,3 @@
-from urllib.request import build_opener
-
-
 class HtmlElement:
     
     indent_size = 2
